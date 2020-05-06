@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_control"
+        android:title="Controls"/>
+    <item
+        android:id="@+id/id_monitoring"
+        android:title="Monitoring"/>
+
+</menu>
